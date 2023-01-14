@@ -1,0 +1,3 @@
+camisa 20
+ropa 50
+chocolate 100

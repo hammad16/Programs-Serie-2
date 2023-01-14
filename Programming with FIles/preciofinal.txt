@@ -1,0 +1,3 @@
+camisa 23.00
+ropa 57.50
+chocolate 115.00
